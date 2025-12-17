@@ -2,8 +2,8 @@ function Section5() {
   return (
     <section className="panel h-screen w-[100vw] flex items-center justify-center">
       <div className="w-[95%] flex justify-center gap-10 uppercase font-mono">
-        <p>Recent Projects</p>
-        <p>Recent Projects</p>
+        <p>Its me</p>
+        <p>Avinash</p>
       </div>
     </section>
   );
@@ -23,8 +23,8 @@ function OverlayContent({
         className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-0"
       >
         <div className="w-[95%] flex justify-center gap-10 uppercase font-mono">
-          <p>Recent Projects</p>
-          <p>Recent Projects</p>
+          <p>Its me</p>
+          <p>Avinash</p>
         </div>
       </div>
     </>

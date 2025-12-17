@@ -33,6 +33,8 @@ body::-webkit-scrollbar{
 
 
 
+
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
@@ -150,3 +152,5 @@ body::-webkit-scrollbar{
     @apply bg-background text-foreground;
   }
 }
+
+

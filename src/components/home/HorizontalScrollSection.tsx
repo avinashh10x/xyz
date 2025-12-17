@@ -196,14 +196,14 @@ export default function HorizontalScroll() {
             className="absolute inset-0 flex items-center justify-center pointer-events-none opacity-0"
           >
             <div className="w-[95%] bg-bg flex justify-center gap-10 uppercase font-mono">
-              <p className="movingText">Recent Projects</p>
-              <p className="movingText">Recent Projects</p>
+              <p className="movingText">Its me</p>
+              <p className="movingText">Avinash</p>
             </div>
             <div className=" absolute top-0 left-0 w-full h-full flex items-center justify-center pointer-events-none">
               <div className="img-box h-1/2 w-1/3 absolute top-1/4 left-1/3 opcity-0">
                 <img
                   className="h-full w-full object-cover"
-                  src="https://images.unsplash.com/photo-1763908161084-6be74390daf2?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwxMHx8fGVufDB8fHx8fA%3D%3D"
+                  src="/pic1.png"
                   alt=""
                 />
                 <ImageInfoBox />
