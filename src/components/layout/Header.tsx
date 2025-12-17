@@ -18,13 +18,13 @@ function Header() {
     >
       {/* COLUMN 1 */}
       <div className="leading-tight">
-        <div className="">Bigpicture Company</div>
-        <div className="">We share</div>
-        <div className="">Our pleasure</div>
+        <div className="">ByAvi.in</div>
+        {/* <div className="">Design · Development · Product</div> */}
+        <div className="">Crafting digital experiences</div>
       </div>
 
       {/* COLUMN 2 */}
-      <div className="">Creativity_agency</div>
+      <div className="">Creativity</div>
 
       {/* COLUMN 3 → CENTER MENU */}
       <nav
@@ -55,12 +55,12 @@ function Header() {
       </nav>
 
       {/* COLUMN 4 */}
-      <div className="">Offline_marketing</div>
+      <div className="">Portfolio</div>
 
       {/* COLUMN 5 */}
       <div className="flex items-center gap-2 ">
         <Globe size={16} />
-        <span>Seoul,Korea</span>
+        <span>Mumbai,India</span>
       </div>
     </header>
   );

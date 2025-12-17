@@ -126,7 +126,7 @@ const Model3D = ({
   scrollProgress: number;
   modelCompleteProgress?: number;
 }) => {
-  const { scene } = useGLTF("/models/bicpicture.glb");
+  const { scene } = useGLTF("/models/AVI.glb");
   const modelRef = useRef<THREE.Object3D>(null);
 
   // CONFIG for initial animation
